@@ -1,0 +1,5 @@
+.idea/
+.env/
+!*.ipynb
+video/
+.ipynb_checkpoints
